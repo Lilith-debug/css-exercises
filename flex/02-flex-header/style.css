@@ -30,6 +30,6 @@ a {
   text-decoration: none;
 }
 
-.left-links {
-  margin: -40px;
+ul {
+  margin: 0 0 0 -40px;
 }
