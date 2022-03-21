@@ -11,6 +11,7 @@ img {
   text-align: center;
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -28,6 +29,7 @@ img {
 
 .images {
   display: flex;
+  gap: 52px;
 }
 
 .item {
