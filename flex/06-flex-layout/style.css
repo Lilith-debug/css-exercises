@@ -45,10 +45,18 @@ ul {
   display: flex;
   justify-content: flex-start;
   gap: 16px;
+  margin-left: -20px;
+  margin-right: 20px;
 }
 
 .right-links {
   display: flex;
   justify-content: flex-end;
   gap: 16px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.footer {
+  background-color:gainsboro;
 }
