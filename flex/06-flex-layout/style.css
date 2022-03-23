@@ -16,6 +16,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 8px;
 }
 
 input {
@@ -39,6 +40,7 @@ ul {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 8px;
 }
 
 .left-links {
@@ -46,15 +48,12 @@ ul {
   justify-content: flex-start;
   gap: 16px;
   margin-left: -20px;
-  margin-right: 20px;
 }
 
 .right-links {
   display: flex;
   justify-content: flex-end;
   gap: 16px;
-  margin-right: 20px;
-  margin-left: 20px;
 }
 
 .footer {
