@@ -30,3 +30,7 @@ a {
   color:slategrey;
   text-decoration: none;
 }
+
+ul {
+  list-style-type: none;
+}
