@@ -32,6 +32,7 @@ body {
   background: royalblue;
   width: 300px;
   flex: 1 0 auto;
+  padding: 16px;
 }
 
 .card {
@@ -39,6 +40,9 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   display: flex;
+  width: 300px;
+  height: 300px;
+  padding: 16px;
 }
 
 .content {
@@ -49,10 +53,20 @@ body {
 .deck {
   display: flex;
   flex-wrap: wrap;
+  padding: 32px;
+  gap: 24px;
+}
+
+ul {
+  list-style-type: none;
 }
 
 a {
   text-decoration: none;
   color: white;
   font-size: 24px;
+}
+
+li {
+  margin-top: 16px;
 }
