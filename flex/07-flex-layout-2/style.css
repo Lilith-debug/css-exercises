@@ -25,6 +25,8 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
+  width: 300px;
+  flex: 1 0 auto;
 }
 
 .card {
@@ -41,5 +43,5 @@ body {
 
 .deck {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
