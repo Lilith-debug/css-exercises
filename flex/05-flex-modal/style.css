@@ -71,13 +71,16 @@ button.cancel {
 
 .top {
   display: flex;
+  justify-content: space-between;
 }
 
 .buttons {
   display: flex;
+  gap: 4px;
 }
 
 .column {
   display: flex;
   flex-direction: column;
+  gap: 10px;
 }
